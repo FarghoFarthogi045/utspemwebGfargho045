@@ -1,0 +1,18 @@
+h1{
+	font-family: 'Noto Serif JP', serif;
+	font-size: 45px;
+	-webkit-text-stroke: 1px grey;
+}
+
+h2{
+	color: #DAA520;
+	font-family: 'Kolker Brush', cursive;
+	font-size: 100px;
+	-webkit-text-stroke: 1px black;
+}
+
+p{
+	font-family: 'Kolker Brush', cursive;
+	font-size: 30px;
+	-webkit-text-stroke: 1px black;
+}

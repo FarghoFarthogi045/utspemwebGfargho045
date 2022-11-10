@@ -1,0 +1,26 @@
+table {
+	width: 80%;
+	margin: auto;
+}
+
+td, th {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+tr:hover {
+	background: brown;
+}
+
+h1{
+	font-family: 'Noto Serif JP', serif;
+	font-size: 45px;
+	-webkit-text-stroke: 1px grey;
+}
+
+h2{
+	color: #DAA520;
+	font-family: 'Kolker Brush', cursive;
+	font-size: 2rem;
+	font-weight: 900;
+}
